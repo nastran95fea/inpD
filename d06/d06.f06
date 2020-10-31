@@ -1,0 +1,80 @@
+ arg(1)=                                
+ cwd=D:\00master\NASTRAN-95-master\inpD\d06
+ RFDIR=D:\00master\NASTRAN-95-master\rf
+ LEN=          38
+ DIRTRY=D:\00master\NASTRAN-95-master\inpD\d06.
+ DSNAMES(3)=D:\00master\NASTRAN-95-master\inpD\d06\.F04                                     
+ SDSN(1)=D:\00master\NASTRAN-95-master\inpD\d06\.sof1                                    
+
+
+
+
+
+
+                                  ****
+                                *      *
+                               *        *
+                               *  N A S T R A N
+                               *        *
+                                *      *
+                                  ****
+
+
+                             SUN COMPUTER SYSTEMS    
+                                SOLARIS VERSION
+
+                          SYSTEM RELEASE -  1995 ED.
+
+                                DISTRIBUTED BY
+
+         COMPUTER SOFTWARE MANAGEMENT AND INFORMATION CENTER (COSMIC)
+                 UNIVERSITY OF GEORGIA, ATHENS, GEORGIA 30602
+                 PHONE: (706)542-3265      FAX: (706)542-4807
+1                                                                           /    95 SUN SOLARIS NASTRAN    / AUG 28, 20 / PAGE     2
+                                                                                                                                    
+0                                                                                                                                   
+                                                                                                         
+                                                                                                         
+                         INSTALLATION CENTER USER INFORMATION GIVEN IN THIS SECTION                      
+                                                                                                         
+                                     *********************************************                       
+                                     *                                           *                       
+                                     *  PLEASE READ THE COMMENT IN DEMO PROBLEM  *                       
+                                     *  D01002A ABOUT SYSTEM TIMING CONSTANTS    *                       
+                                     *                                           *                       
+                                     *********************************************                       
+                                                                                                         
+                         ===X=    TOP OF PAGE REQUEST IF 'X' IS REPLACED BY '='                          
+                                                                                                         
+1                                                                           /    95 SUN SOLARIS NASTRAN    / AUG 28, 20 / PAGE     3
+                                                                                                                                    
+0                                                                                                                                   
+0*** USER INFORMATION MESSAGE 225, GINO TIME CONSTANTS ARE BEING COMPUTED
+     (SEE NASINFO FILE FOR ELIMINATION OF THESE COMPUTATIONS)
+1                                                                           /    95 SUN SOLARIS NASTRAN    / AUG 28, 20 / PAGE     4
+                                                                                                                                    
+0        N A S T R A N    E X E C U T I V E    C O N T R O L    D E C K    E C H O                                                  
+0                                                                                                                                   
+                                                                                                                                    
+                                                                                                                                    
+     ID    D06011A,NASTRAN                                                           
+     APP   DISPLACEMENT                                                              
+     TIME  100                                                                       
+     SOL   6,1                                                                       
+     CEND                                                                            
+0*** SYSTEM FATAL MESSAGE, RFOPEN CAN NOT OPEN D:\master\NASTRAN-95-master\rf/DISP6        
+0*** SYSTEM FATAL MESSAGE. RFCLSE/RFOPEN ERROR.  LU =   0
+  ERRTRC CALLED
+  NAME=WRTMSG  
+  IVAL=         100
+
+
+
+
+                                        * * * END OF JOB * * *
+1
+ JOB TITLE =                                                                     
+ DATE:  8/28/20
+ END TIME: 22:17:19
+ TOTAL WALL CLOCK TIME      0 SEC.
+ 
